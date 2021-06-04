@@ -1,0 +1,1 @@
+This is message to send, write utf8 chars here up to 80 bytes !
